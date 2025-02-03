@@ -1,6 +1,5 @@
 # Image-to-GIF Generator
 
-![Project Banner](https://via.placeholder.com/800x300.png?text=Image-to-GIF+Generator)
 
 ## 🚀 Project Overview
 The **Image-to-GIF Generator** is an AI-powered project that utilizes **NVIDIA’s StyleGAN3** to generate high-quality images and seamlessly convert them into animated GIFs. This project is designed to demonstrate the capabilities of **Deep Learning and Generative Adversarial Networks (GANs)** in image synthesis and animation.
