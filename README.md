@@ -39,8 +39,3 @@ https://www.google.com/url?q=https%3A%2F%2Fpaperswithcode.com%2Fmethod%2Ftruncat
 https://www.google.com/url?q=https%3A%2F%2Fnvlabs-fi-cdn.nvidia.com%2Fstylegan3%2Fstylegan3-paper.pdf
 https://www.google.com/url?q=https%3A%2F%2Fhackernoon.com%2Flatent-space-visualization-deep-learning-bits-2-bd09a46920df
 https://www.google.com/url?q=https%3A%2F%2Fpaperswithcode.com%2Fdataset%2Fafhq
-
-
-## 📝 License
-This project does **not** redistribute NVIDIA’s pre-trained models. Users must download them directly from official NVIDIA sources. Please review NVIDIA’s license before any commercial use.
-
