@@ -31,6 +31,7 @@ This project is built on **NVIDIA's StyleGAN3** ([GitHub](https://github.com/NVl
 - This implementation is for **educational and portfolio purposes** and adheres to NVIDIA’s licensing terms.
 
 ## References
+https://developers.google.com/machine-learning/gan/training
 https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1812.04948
 https://www.google.com/url?q=https%3A%2F%2Fcatalog.ngc.nvidia.com%2Forgs%2Fnvidia%2Fteams%2Fresearch%2Fmodels%2Fstylegan3
 https://github.com/justinpinkney/awesome-pretrained-stylegan3
